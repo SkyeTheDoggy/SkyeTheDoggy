@@ -6,21 +6,24 @@
 I'm a self-taught transgirl programmer and mediocre artist who loves to learn new things and improve her skills.
 
 ## About me
-<table><tr><td valign="top" width="50%">
-
-- Bisexual transgender girl 🏳️‍⚧️🏳️‍🌈
-- I love gaming, drawing, and programming 🎨💻
-- Gawr Gura shrimp 🦐
-- Cunny enjoyer 😭
-- My VTuber oshis: Gura, Laplus, and Shion
-
-</td><td valign="top" width="50%">
-<div align="center">
-<a href="https://discord.com/users/679270448931930145">
-<img src="https://lanyard.cnrad.dev/api/679270448931930145?showDisplayName=true" align="center" style="width: 100%" />
-</a>
-</div>
-</td></tr></table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      - Bisexual transgender girl 🏳️‍⚧️🏳️‍🌈
+      - I love gaming, drawing, and programming 🎨💻
+      - Gawr Gura shrimp 🦐
+      - Cunny enjoyer 😭
+      - My VTuber oshis: Gura, Laplus, and Shion
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <a href="https://discord.com/users/679270448931930145">
+          <img src="https://lanyard.cnrad.dev/api/679270448931930145?showDisplayName=true" align="center" style="width: 100%" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## Languages and Tools
 <img src="https://skillicons.dev/icons?i=discord,bots,linux,md,vscode,git,github,nodejs,js,ts,py,html,css">
