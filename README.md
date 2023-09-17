@@ -26,12 +26,13 @@ I'm a self-taught transgirl programmer and mediocre artist who loves to learn ne
 <img src="https://skillicons.dev/icons?i=discord,bots,linux,md,vscode,git,github,nodejs,js,ts,py,html,css">
 
 ## Github Stats  
-<table style="width:100%, overflow:hidden"><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
-
-</td></tr></table>
+<table style="width:100%, overflow:hidden">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
