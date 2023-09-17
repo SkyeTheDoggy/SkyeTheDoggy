@@ -9,11 +9,12 @@ I'm a self-taught transgirl programmer and mediocre artist who loves to learn ne
 <table>
   <tr>
     <td valign="top" width="50%">
-      - Bisexual transgender girl 🏳️‍⚧️🏳️‍🌈
-      - I love gaming, drawing, and programming 🎨💻
-      - Gawr Gura shrimp 🦐
-      - Cunny enjoyer 😭
-      - My VTuber oshis: Gura, Laplus, and Shion
+      
+  - Bisexual transgender girl 🏳️‍⚧️🏳️‍🌈
+  - I love gaming, drawing, and programming 🎨💻
+  - Gawr Gura shrimp 🦐
+  - Cunny enjoyer 😭
+  - My VTuber oshis: Gura, Laplus, and Shion
     </td>
     <td valign="top" width="50%">
       <div align="center">
