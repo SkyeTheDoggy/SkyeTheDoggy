@@ -15,6 +15,7 @@ I'm a self-taught transgirl programmer and mediocre artist who loves to learn ne
   - Gawr Gura shrimp 🦐
   - Cunny enjoyer 😭
   - My VTuber oshis: Gura, Laplus, and Shion
+    
     </td>
     <td valign="top" width="50%">
       <div align="center">
