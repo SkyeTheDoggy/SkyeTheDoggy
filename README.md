@@ -15,7 +15,7 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
   - Gawr Gura shrimp 🦐
   - Cunny enjoyer 😭
   - My VTuber oshis: Gura, Laplus, and Shion
-    </td>
+  </td>
     <td valign="top" width="50%">
       <div align="center">
         <a href="https://discord.com/users/679270448931930145">
@@ -30,13 +30,17 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 <img src="https://skillicons.dev/icons?i=discord,bots,linux,md,vscode,git,github,nodejs,js,ts,py,html,css">
 
 ## Github Stats  
-<table style="width:100%, overflow:hidden">
+<table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
+      </div>
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
+      </div>
     </td>
   </tr>
 </table>
