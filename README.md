@@ -10,11 +10,10 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
   <tr>
     <td valign="top" width="50%">
       
-  - Bisexual transgender girl :transgender_flag: :rainbow_flag: 
-  - I'm very autistic :infinity:
-  - Hobbies: drawing, programming, and electronics :art::computer:
-  - My VTuber oshis: Gura, Laplus, and Shion :blue_heart:
-  - Cute n funny enjoyer :anger:
+  𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳
+  𖹭 Hobbies: Drawing, Programming, Electronics
+  𖹭 My VTuber Oshis: Gura, Laplus, Shion
+  𖹭 Cute & Funny Enjoyer 💢
   </td>
     <td valign="top" width="50%">
       <div align="center">
