@@ -10,10 +10,10 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
   <tr>
     <td valign="top" width="50%">
       
-  𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳
-  𖹭 INTP-T 💭 | Arch Linux User 🐧
-  𖹭 Hobbies: Drawing, Programming, Electronics
-  𖹭 My VTuber Oshis: Gura, Laplus, Shion
+  𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
+  𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
+  𖹭 Hobbies: Drawing, Programming, Electronics</br>
+  𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
   </td>
     <td valign="top" width="50%">
       <div align="center">
