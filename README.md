@@ -17,10 +17,10 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 ## GitHub Stats
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" />
     </td>
-    <td width="50%">
+    <td>
       <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" />
     </td>
   </tr>
