@@ -14,12 +14,7 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 ## Languages and Tools
 [![Skills](https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind)](https://skillicons.dev)
 
-## Github Stats
-
-## Languages and Tools 🛠️
-[![Skills](https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind)](https://skillicons.dev)
-
-## GitHub Stats 📊
+## GitHub Stats
 <table>
   <tr>
     <td width="50%">
