@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/SkyeUwU)[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/679270448931930145)[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/skyethedoggy)
 
-I'm a self-taught programmer and mediocre artist who loves to learn new things and improve her skills.
+I'm a self-taught programmer transgirl and an artist who loves to learn new stuff and improve my skills.
 
 ## About Me
 𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
