@@ -7,17 +7,17 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 
 ## About Me
 
-𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳
-𖹭 INTP-T 💭 | Arch Linux User 🐧
-𖹭 Hobbies: Drawing, Programming, Electronics
-𖹭 My VTuber Oshis: Gura, Laplus, Shion
+𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
+𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
+𖹭 Hobbies: Drawing, Programming, Electronics</br>
+𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
 
 ## Languages and Tools
 <img src="https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind">
 
 ## Github Stats  
-<table>
-  <tr>
+<table width='100%'>
+  <tr width='100%'>
     <td width="50%">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
