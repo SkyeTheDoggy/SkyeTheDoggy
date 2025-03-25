@@ -5,17 +5,12 @@
 ### Welcome to my GitHub profile!
 I'm a self-taught programmer and mediocre artist who loves to learn new things and improve her skills.
 
-## About me
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
-      𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
-      𖹭 Hobbies: Drawing, Programming, Electronics</br>
-      𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
-    </td>
-  </tr>
-</table>
+## About Me
+
+𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳
+𖹭 INTP-T 💭 | Arch Linux User 🐧
+𖹭 Hobbies: Drawing, Programming, Electronics
+𖹭 My VTuber Oshis: Gura, Laplus, Shion
 
 ## Languages and Tools
 <img src="https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind">
@@ -23,12 +18,12 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 ## Github Stats  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%">
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td width="50%">
       <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
       </div>
