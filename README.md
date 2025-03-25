@@ -9,18 +9,10 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 <table>
   <tr>
     <td valign="top" width="50%">
-      
-  𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
-  𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
-  𖹭 Hobbies: Drawing, Programming, Electronics</br>
-  𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
-  </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <a href="https://discord.com/users/679270448931930145">
-          <img src="https://lanyard.cnrad.dev/api/679270448931930145?showDisplayName=true" align="center" style="width: 100%" />
-        </a>
-      </div>
+      𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
+      𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
+      𖹭 Hobbies: Drawing, Programming, Electronics</br>
+      𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
     </td>
   </tr>
 </table>
