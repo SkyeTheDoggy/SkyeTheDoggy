@@ -12,7 +12,7 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind">
+[![Skills](https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind)](https://skillicons.dev)
 
 ## Github Stats  
 <table>
