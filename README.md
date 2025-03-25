@@ -8,7 +8,7 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 ## About me
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
       𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
       𖹭 Hobbies: Drawing, Programming, Electronics</br>
