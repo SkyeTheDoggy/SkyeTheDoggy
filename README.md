@@ -6,7 +6,6 @@
 I'm a self-taught programmer and mediocre artist who loves to learn new things and improve her skills.
 
 ## About Me
-
 𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
 𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
 𖹭 Hobbies: Drawing, Programming, Electronics</br>
@@ -16,14 +15,14 @@ I'm a self-taught programmer and mediocre artist who loves to learn new things a
 <img src="https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind">
 
 ## Github Stats  
-<table width='100%'>
-  <tr width='100%'>
-    <td width="50%">
+<table>
+  <tr>
+    <td>
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
       </div>
     </td>
-    <td width="50%">
+    <td>
       <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
       </div>
