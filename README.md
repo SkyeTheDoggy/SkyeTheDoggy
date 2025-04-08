@@ -17,10 +17,10 @@ I'm a self-taught programmer transgirl and an artist who loves to learn new stuf
 <table>
   <tr>
     <td>
-      <img height="164px" src="https://github-readme-stats.vercel.app/api?username=SkyeUwU&show_icons=true&count_private=false&hide_border=true&theme=onedark" />
+      <img height="164px" src="https://github-readme-stats.vercel.app/api?username=SkyeTheDoggy&show_icons=true&count_private=false&hide_border=true&theme=onedark" />
     </td>
     <td>
-      <img height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeUwU&hide_border=true&count_private=false&layout=compact&theme=onedark" />
+      <img height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyeTheDoggy&hide_border=true&count_private=false&layout=compact&theme=onedark" />
     </td>
   </tr>
 </table>
