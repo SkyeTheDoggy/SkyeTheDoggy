@@ -5,7 +5,7 @@
 I'm a self-taught programmer transgirl and an artist who loves to learn new stuff and improve my skills.
 
 ## About Me
-𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 22 yo ⏳</br>
+𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 23 yo ⏳</br>
 𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
 𖹭 Hobbies: Drawing, Programming, Electronics</br>
 𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
