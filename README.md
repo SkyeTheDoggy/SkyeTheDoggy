@@ -8,7 +8,7 @@ I'm a self-taught programmer transgirl and an artist who loves to learn new stuf
 𖹭 Autistic ♾️ | Bisexual Transgirl 🏳️‍⚧️ | 23 yo ⏳</br>
 𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
 𖹭 Hobbies: Drawing, Programming, Electronics</br>
-𖹭 My VTuber Oshis: Gura, Laplus, Shion</br>
+𖹭 My VTuber Oshis: Gura, Laplus, Bijou</br>
 
 ## Languages and Tools
 [![Skills](https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind)](https://skillicons.dev)
