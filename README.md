@@ -5,10 +5,10 @@
 I'm a self-taught programmer transgirl and an artist who loves to learn new stuff and improve my skills.
 
 ## About Me
-𖹭 Autistic ♾️ | Bi-Lesbian Transgirl 🏳️‍⚧️ | 23 yo ⏳</br>
-𖹭 INTP-T 💭 | Arch Linux User 🐧</br>
-𖹭 Hobbies: Drawing, Programming, Electronics</br>
-𖹭 My VTuber Oshis: Gura (Saba), Laplus, Bijou</br>
+★ Autistic ◦ Bi-Lesbian Transgirl ◦ 24 yo<br>
+★ INTP-T ◦ Arch Linux User ◦ Libertarian Socialist<br>
+★ Hobbies: Drawing, Programming, Electronics<br>
+★ Oshis: Saba, Laplus, Bijou<br>
 
 ## Languages and Tools
 [![Skills](https://skillicons.dev/icons?i=discord,bots,arch,linux,md,vscode,git,github,nodejs,react,vite,raspberrypi,js,ts,py,html,css,sass,tailwind)](https://skillicons.dev)
