@@ -20,7 +20,7 @@ I'm a self-taught programmer transgirl and an artist who loves to learn new stuf
       <img height="164px" src="https://github-stats-extended.vercel.app/api?username=SkyeTheDoggy&show_icons=true&count_private=false&hide_border=true&theme=onedark&card_width=500" />
     </td>
     <td>
-      <img height="164px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SkyeTheDoggy&hide_border=true&count_private=false&layout=compact&theme=onedark&card_width=300" />
+      <img height="164px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SkyeTheDoggy&hide_border=true&count_private=false&layout=normal&theme=onedark&card_width=500" />
     </td>
   </tr>
 </table>
